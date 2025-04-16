@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Muaz
 <p align="center">
-  <img src="https://github.com/muaz67/desktop-tutorial/blob/main/muaz.jpeg?raw=true" alt="My Image">
+<img src="https://github.com/muaz67/desktop-tutorial/blob/main/muaz.jpeg?raw=true" alt="My Image" height="200">
 </p>
 🎓 I’m a student at **Universiti Utara Malaysia (UUM)**, currently pursuing **Information Technology**.  
 🧑‍💻 I’m a beginner in programming and always excited to explore new things in tech!
