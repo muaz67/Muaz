@@ -1,27 +1,32 @@
-# 👋 Hi there! I'm Muaz
+# 👋 Hi! I'm Muaz
 
-🎓 I'm currently an undergraduate IT student at **Universiti Utara Malaysia (UUM)**.  
-🧠 I'm a **beginner** in programming and love learning new things every day!
+🎓 I’m a student at **Universiti Utara Malaysia (UUM)**, currently pursuing **Information Technology**.  
+🧑‍💻 I’m a beginner in programming and always excited to explore new things in tech!
 
-## 🛠️ Languages I'm learning:
-- 💻 Java
-- 🐍 Python
-- 🌐 HTML
+## 🚀 Languages I'm learning:
+- Java ☕
+- Python 🐍
+- HTML 🌐
 
-## 🌱 What I enjoy:
-- Exploring new technologies  
-- Building simple projects to sharpen my skills  
-- Learning by doing and experimenting
-
-## 🚀 Goals:
-- Improve my coding skills in Java, Python & Web Development  
-- Build a portfolio of mini projects  
-- Collaborate with other students and developers
-
-## 📫 Let's connect!
-Feel free to reach out or follow my journey here on GitHub.  
-I'm always open to learning and connecting with others 🤝
+## 🌱 Interests:
+- Exploring new technologies
+- Building small fun projects
+- Learning by doing
 
 ---
 
-_“Every expert was once a beginner”_
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&layout=compact&theme=dracula" height="150" />
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/snake.svg" alt="Snake animation" />
+
+---
+
